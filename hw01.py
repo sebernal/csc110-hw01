@@ -69,10 +69,12 @@ def main():
     # Your code for part 2 under this line and before the print statements
     x=5
     y=-3
+    # Using the equals symbol I reassigned the variables x and y to new values
     result2=(x**2)*(y**4)
     print("Part 2: x =",x)
     print("Part 2: y =",y)
     print("Part 2: result =",result2)
+    # Using the print command I printed the variables and result for part 2
 
     # End of Part 2 ----------------------
 
@@ -81,6 +83,12 @@ def main():
     # Part 3: Integer divide
     # =============================================
     # Your code for part 3 under this line and before the print statements
+    a=100
+    b=13
+    result3= a//b
+    print("Part 3: a =",a)
+    print("Part 3: b =",b)
+    print("Part 3: result =",result3)
 
     # End of Part 3 ----------------------
 
