@@ -69,7 +69,7 @@ def main():
     # Your code for part 2 under this line and before the print statements
     x=5
     y=-3
-    # Using the equals symbol I reassigned the variables x and y to new values
+    #Using the equal symbol I reassigned the variables x and y to new values
     result2=(x**2)*(y**4)
     print("Part 2: x =",x)
     print("Part 2: y =",y)
@@ -85,10 +85,14 @@ def main():
     # Your code for part 3 under this line and before the print statements
     a=100
     b=13
+    #Using the equal symbol I reassigned a to the value 100 and b to the value 13
     result3= a//b
+    #In order to get an integer result I used the integer divide operator
     print("Part 3: a =",a)
     print("Part 3: b =",b)
     print("Part 3: result =",result3)
+    #I printed the varaibles and the results of part three using a print statement that
+    #included a string followed by a variable
 
     # End of Part 3 ----------------------
 
@@ -96,6 +100,8 @@ def main():
     # Part 4: Modulo
     # =============================================
     # Your code for part 4 under this line and before the print statements
+    result4= a%b
+    print("Part 4: result =",result4)
 
     # End of Part 4 ----------------------
 
